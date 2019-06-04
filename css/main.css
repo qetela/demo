@@ -4,6 +4,7 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
+  background: #f4f4f4;
 }
 
 img {
